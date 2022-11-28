@@ -1,0 +1,1 @@
+<img class="qr_code" width="20%" src="{{ $signature_image }}" alt="Signature Image">
